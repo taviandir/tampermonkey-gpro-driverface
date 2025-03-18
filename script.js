@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         GPRO: Hide driver face
 // @namespace    taviandir.gpro.driverface
-// @version      0.0.2
+// @version      0.0.3
 // @description  Remove the driver profile image on the driver profile pages.
 // @author       Taviandir
-// @match        https://*.gpro.net/*
+// @match        https://gpro.net/*
+// @match        https://app.gpro.net/*
 // @icon         https://www.google.com/s2/favicons?domain=tampermonkey.net
 // @license      MIT
 // @grant        none
